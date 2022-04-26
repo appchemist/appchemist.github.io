@@ -49,15 +49,16 @@ gos.write(“저장할 내용”);
 Stream Chaining 기법은 Input, OuputStream과 Reader, Writer와 subclass 간의 class 관계에서 가능하게 된다.
 
 이러한 관계를 Decorator Pattern이라고 한다.
-• 일반적 Decorator Pattern의 구조
+- 일반적 Decorator Pattern의 구조
 <a href="http://i2.wp.com/appchemist.net/wp-content/uploads/2011/12/javainputoutput2.png"><img class="alignnone size-medium wp-image-135" title="javainputoutput2" src="http://i2.wp.com/appchemist.net/wp-content/uploads/2011/12/javainputoutput2.png?resize=300%2C217" alt="" data-recalc-dims="1"/></a>
-• InputStream에서 Decorator Pattern 구조
+- InputStream에서 Decorator Pattern 구조
 
  Reader도 FilterInputStream과 동일하게 FilterReader와 BufferedReader가 Abstract Decorator이다.
 <a href="http://i0.wp.com/appchemist.net/wp-content/uploads/2011/12/javainputoutput3.png"><img class="alignnone size-medium wp-image-136" title="javainputoutput3" src="http://i0.wp.com/appchemist.net/wp-content/uploads/2011/12/javainputoutput3.png?resize=376%2C239" alt="" data-recalc-dims="1"/></a>
-• Decorator Pattern의 Forward 과정
+- Decorator Pattern의 Forward 과정
 <a href="http://i2.wp.com/appchemist.net/wp-content/uploads/2011/12/javainputoutput4.png"><img class="alignnone size-medium wp-image-137" title="javainputoutput4" src="http://i2.wp.com/appchemist.net/wp-content/uploads/2011/12/javainputoutput4.png?resize=300%2C214" alt="" data-recalc-dims="1"/></a>
-• 결과
+
+### 결과
 
 InputStream에서 Buffer가 달린 InputStream과 각 라인에 0에서부터 카운트하는 LineNumberInputStream 등의 기능들을 InputStream이라는 객체에 각 기능을 장식(Decorator)을 달아서 자신이 원하는 기능의 InputStream을 사용할 수 있다.
 

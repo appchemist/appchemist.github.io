@@ -10,35 +10,22 @@ tumblr_url: https://appchemist.tumblr.com/post/145945378261/ebb894eba19ceab7b8ec
 ---
 Code Highlight를 적용하기 앞써 어떤 제품들이 있는지 확인해보자.
 
-	•	Prism
+- Prism
+- Rainbows
+- Snippet
+- Geshi
+- Syntax Highlighter
+- Google Code Prettify
+- Highlight.js
+- SHJS : Syntax Highlighting in JavaScript
+- Quick Highlighter
+- Ultraviolet
+- Pygments : Python Syntax Highlighter
+- Lighter for MooTools
+- CodePress
+- Beauty of Code
+- Jush JavaScript Syntax Highlighter
 
-	•	Rainbows
-
-	•	Snippet
-
-	•	Geshi
-
-	•	Syntax Highlighter
-
-	•	Google Code Prettify
-
-	•	Highlight.js
-
-	•	SHJS : Syntax Highlighting in JavaScript
-
-	•	Quick Highlighter
-
-	•	Ultraviolet
-
-	•	Pygments : Python Syntax Highlighter
-
-	•	Lighter for MooTools
-
-	•	CodePress
-
-	•	Beauty of Code
-
-	•	Jush JavaScript Syntax Highlighter
 위와 같이 다양한 제품을 사용할 수 있다. 해당 제품들의 간단한 설명은 아래의 글을 참고하기 바란다.
 <blockquote data-secret="H7hT0YCuFk" class="wp-embedded-content"><a href="https://codegeekz.com/15-code-syntax-highlighters-to-prettify-your-code/">15 Code Syntax Highlighters To Prettify Your Code</a></blockquote>
 <iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://codegeekz.com/15-code-syntax-highlighters-to-prettify-your-code/embed/#?secret=H7hT0YCuFk" data-secret="H7hT0YCuFk" width="600" height="338" title="“15 Code Syntax Highlighters To Prettify Your Code” — Code Geekz" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
