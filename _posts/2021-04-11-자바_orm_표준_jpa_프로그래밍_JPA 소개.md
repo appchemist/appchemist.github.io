@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 자바 ORM 표준 JPA 프로그래밍 - JPA 소개
-categories: [Study]
-tags: [redis, transaction]
+categories: [Study, JPA]
+tags: [JPA, ORM]
 ---
 
 # Table of Contents
