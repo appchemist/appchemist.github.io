@@ -2,7 +2,7 @@
 layout: post
 title: 클린 아키텍처 - 경계 선 긋기
 categories: [Study, Book]
-tags: [clean architecture, boundary]
+tags: [clean architecture, architecture, boundary]
 ---
 
 # Table of Contents
