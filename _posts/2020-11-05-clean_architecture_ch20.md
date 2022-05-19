@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 클린 아키텍처 - 경계 선 긋기
+title: 클린 아키텍처 - 업무 규칙
 categories: [Study, Book]
-tags: [clean architecture, architecture, boundary]
+tags: [clean architecture, architecture]
 ---
 
 # Table of Contents
